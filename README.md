@@ -1,80 +1,242 @@
 
+<!-- ╔════════════════════════════════════════════════════════╗ -->
+<!-- ║           RAVI KISHAN — GITHUB PROFILE README          ║ -->
+<!-- ╚════════════════════════════════════════════════════════╝ -->
 
+<!-- ANIMATED HEADER — matching dark teal aesthetic -->
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;MCA+Graduate+%7C+Hyderabad;Open+to+Work+%F0%9F%9A%80)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080810,50:00d4aa,100:00b4ff&height=220&section=header&text=Ravi%20Kishan&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Java%20Full%20Stack%20Developer%20%E2%80%94%20Building%20clean%2C%20scalable%20web%20apps&descSize=15&descAlignY=65&descColor=00d4aa" width="100%"/>
 
 </div>
 
----
-
-### 🧑‍💻 About Me
-
-- 🎓 **MCA** from Maharishi Markandeshwar University
-- 🚀 Training in **Java Full Stack** at Naresh IT, Hyderabad
-- 💼 Interned at **KPMG** as Data Analytics Consultant
-- 🌱 Currently learning **Spring Boot & Advanced Java**
-- 👀 Open to **Internships & Full-Time Opportunities**
-- 📍 **Patna, Bihar** | Training in **Hyderabad**
-- 📧 Reach me: **ravikishan395@gmail.com**
-
----
-
-### 🛠️ Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
+<!-- TYPING SVG -->
 <div align="center">
 
-![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravikishan30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravikishan30&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ravikishan30&theme=tokyonight&hide_border=true)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=26&duration=3000&pause=800&color=00D4AA&center=true&vCenter=true&width=620&height=55&lines=☕+Java+Full+Stack+Developer;🎓+MCA+Graduate+%7C+Naresh+IT+Hyderabad;💼+Ex-KPMG+Data+Analytics+Intern;🚀+Open+to+Work+—+Let%27s+Build+Something!;🌐+ravikishan30.github.io)](https://ravikishan30.github.io)
 
 </div>
 
----
+<br/>
 
-### 🚀 Featured Project
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🎓 [Student Management System](https://ravikishan30.github.io) | Web app for managing student records | HTML, CSS, JS, MySQL |
-
----
-
-### 🤝 Connect With Me
-
+<!-- STATUS BADGES — pill style like portfolio nav -->
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-00d4aa?style=for-the-badge)](https://ravikishan30.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
-[![Email](https://img.shields.io/badge/Gmail-Mail_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravikishan395@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917903339741)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-00d4aa?style=flat-square&labelColor=080810)](https://ravikishan30.github.io)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=080810)](https://linkedin.com/in/YOUR-LINKEDIN)&nbsp;
+[![Gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=080810)](mailto:ravikishan395@gmail.com)&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=ravikishan30&color=00d4aa&style=flat-square&label=Profile+Views)
 
 </div>
 
+<br/>
+
 ---
+
+<!-- ABOUT ME — styled as Java code block matching portfolio aesthetic -->
+
+```java
+╔══════════════════════════════════════════════════════════════╗
+║     ✦  RAVI KISHAN  ✦   Java Full Stack Developer            ║
+╚══════════════════════════════════════════════════════════════╝
+
+public class RaviKishan {
+
+    // ── Identity ──────────────────────────────────────────────
+    String   name       = "Ravi Kishan";
+    String   role       = "Java Full Stack Developer";
+    String   location   = "Patna, Bihar  →  Hyderabad (Training)";
+    String   contact    = "ravikishan395@gmail.com | +91-7903339741";
+    boolean  openToWork = true;   // ← ALWAYS true 🚀
+
+    // ── Education ─────────────────────────────────────────────
+    String[] education  = {
+        "🚀 Java Full Stack  @  Naresh IT, Hyderabad  (2024–Now)",
+        "🎓 MCA              @  MM University          (2023–25)",
+        "📚 BBA              @  UEM Kolkata            (2018–21)"
+    };
+
+    // ── Experience ────────────────────────────────────────────
+    String[] experience = {
+        "💼 Data Analytics Intern  @  KPMG  (2021)",
+        "☕ Core Java Training      @  Internshala  (2024)",
+        "🔐 Ethical Hacking Workshop  @  Coding Liquids  (2018)"
+    };
+
+    // ── Currently Learning ────────────────────────────────────
+    String[] learning   = { "Spring Boot", "Hibernate", "REST APIs" };
+
+    // ── Fun Facts ─────────────────────────────────────────────
+    String philosophy   = "Write clean code. Solve real problems. Never stop.";
+}
+```
+
+<br/>
+
+---
+
+## 🛠️ Tech Stack
+
+<!-- LANGUAGES -->
+<div align="center">
+
+**⚡ Languages**
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css,c&theme=dark&perline=5" />
+
+<br/><br/>
+
+**🗄️ Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,oracle&theme=dark&perline=5" />
+
+<br/><br/>
+
+**🔧 Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux&theme=dark&perline=5" />
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ravikishan30&color=00d4aa&style=for-the-badge&label=PROFILE+VIEWS)
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=ravikishan30&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080810&title_color=00d4aa&icon_color=00b4ff&text_color=f0f0f8&ring_color=00d4aa"/>
+&nbsp;&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravikishan30&layout=compact&theme=tokyonight&hide_border=true&bg_color=080810&title_color=00d4aa&text_color=f0f0f8"/>
 
-⭐ *Feel free to explore my repositories and drop a star if you like my work!* ⭐
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=ravikishan30&theme=tokyonight&hide_border=true&background=080810&ring=00d4aa&fire=00b4ff&currStreakLabel=00d4aa&sideLabels=00d4aa&dates=7a7a96" width="68%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravikishan30&bg_color=080810&color=00d4aa&line=00b4ff&point=ffffff&area=true&area_color=00d4aa&hide_border=true&radius=8" width="100%"/>
+
+</div>
+
+<br/>
+
+---
+
+## 🚀 Featured Project
+
+<div align="center">
+
+<!-- PROJECT CARD — styled to match portfolio glow cards -->
+
+| | |
+|:---:|:---|
+| 🎓 | **Student Management System** |
+| 📝 | Web app for educational institutions to manage student records, registrations & search |
+| 🛠️ | `HTML` `CSS` `JavaScript` `MySQL` |
+| 📅 | 2024 |
+| 🔗 | [**View Live ↗**](https://ravikishan30.github.io) |
+
+</div>
+
+<br/>
+
+---
+
+## 💼 Experience Timeline
+
+```
+  2024 ──────────────────────────────────────────────────────
+  │
+  ├── 🚀  Java Full Stack Training
+  │       Naresh Institute of Technology, Hyderabad
+  │       Java · Spring · Oracle SQL · Web Dev · Ongoing
+  │
+  ├── ☕  Core Java Training  (May – Jul 2024)
+  │       Internshala  ·  8 Weeks Online
+  │       OOP · JDBC · GUI Programming · Java & AI
+  │
+  2021 ──────────────────────────────────────────────────────
+  │
+  ├── 📊  Data Analytics Consulting Intern  (May – Jun 2021)
+  │       KPMG Virtual Experience
+  │       Data Quality Assessment · Insights · Presentation
+  │
+  2018 ──────────────────────────────────────────────────────
+  │
+  └── 🔐  Ethical Hacking Workshop  (Sep 28, 2018)
+          Coding Liquids, Kolkata
+          Penetration Testing · SQL Injection · Security
+```
+
+<br/>
+
+---
+
+## 🏆 Certifications
+
+<div align="center">
+
+| 🏅 | Certificate | 🏢 Issuer | 📅 |
+|:---:|------------|:--------:|:---:|
+| ☕ | Java for Beginners | Certified | 2024 |
+| 💻 | Core Java Training — 8 Weeks | Internshala | 2024 |
+| 📊 | Data Analytics Consulting | KPMG Virtual | 2021 |
+| 🔐 | Ethical Hacking Workshop | Coding Liquids | 2018 |
+
+</div>
+
+<br/>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| 🏛️ Degree | 🏫 Institution | 📅 Year | 📊 |
+|:----------|:-------------|:------:|:---:|
+| 🚀 Java Full Stack | Naresh IT, Hyderabad | 2024–Now | In Progress |
+| 🎓 MCA — Master of Computer Applications | MM University, Haryana | 2023–2025 | 64% |
+| 📚 BBA — Bachelor of Business Administration | UEM, Kolkata | 2018–2021 | 65% |
+
+</div>
+
+<br/>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+> *"Open to internships, full-time roles & exciting collaborations.*
+> *Whether you have an opportunity or just want to connect — I'd love to hear from you!"*
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ravikishan30.github.io-00d4aa?style=for-the-badge&labelColor=080810)](https://ravikishan30.github.io)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080810)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+
+[![Gmail](https://img.shields.io/badge/Gmail-ravikishan395@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080810)](mailto:ravikishan395@gmail.com)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+91_7903339741-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=080810)](https://wa.me/917903339741)
+
+</div>
+
+<br/>
+
+---
+
+<!-- FOOTER WAVE — matching portfolio header wave -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4ff,50:00d4aa,100:080810&height=130&section=footer&animation=fadeIn" width="100%"/>
+
+**⭐ Star my repos if you find them useful! ⭐**
+
+*Crafted with ❤️ & ☕ by Ravi Kishan*
 
 </div>
